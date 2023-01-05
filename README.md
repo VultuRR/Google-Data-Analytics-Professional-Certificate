@@ -21,12 +21,12 @@ In addition to expert training and hands-on projects, you'll complete a case stu
 ---
 
 ## 1. Foundations: Data, Data, Everywhere
-1.1 [Introducing data analytics](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.1.Introducing-data-analytics)
-1.2 [Thinking analytically](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.2.Thinking-analytically)
-1.3 [Exploring the wonderful world of data](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.3.Exploring-the-wonderful-world-of-data)
-1.4 [Setting up a data toolbox](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.4.Setting-up-a-data-toolbox)
-1.5 [Discovering data career possibilities](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.5.Discovering-data-career-possibilities)
-1.6 [Course Challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.6.Course-Challenge)
+#### 1.1 [Introducing data analytics](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.1.Introducing-data-analytics)
+#### 1.2 [Thinking analytically](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.2.Thinking-analytically)
+#### 1.3 [Exploring the wonderful world of data](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.3.Exploring-the-wonderful-world-of-data)
+#### 1.4 [Setting up a data toolbox](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.4.Setting-up-a-data-toolbox)
+#### 1.5 [Discovering data career possibilities](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.5.Discovering-data-career-possibilities)
+#### 1.6 [Course Challenge](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/1.6.Course-Challenge)
 
 ## 2. Ask Questions to Make Data-Driven Decisions
 2.1 [Asking effective questions](https://github.com/brendensong/Google-Data-Analytics-Professional-Certificate/wiki/2.1.Asking-effective-questions)
